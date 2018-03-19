@@ -1,0 +1,11 @@
+{
+  "name": "cryptopuller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pull.js",
+  "scripts": {
+    "test": "pull"
+  },
+  "author": "",
+  "license": "ISC"
+}
